@@ -3,6 +3,7 @@
 *.opendb
 # https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 *.suo
+*.user
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
