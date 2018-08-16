@@ -1,4 +1,0 @@
-﻿  main.cpp
-main.obj : error LNK2019: 未解決の外部シンボル _GetDefaultKinectSensor@4 が関数 _main で参照されました。
-C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\\lib\x64\Kinect20.lib : warning LNK4272: ライブラリのコンピューターの種類 'x64' がターゲットのコンピューターの種類' x86' と競合しています
-D:\workdir\git\learning_kinectv2\Windows\book__KINECT_for_Windows_SDKプログラミング_Kinect_for_Windows_v2センサー対応版\KinectV2\Debug\KinectV2.exe : fatal error LNK1120: 1 件の未解決の外部参照
