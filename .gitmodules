@@ -1,3 +1,6 @@
 [submodule "libfreenect2"]
 	path = libfreenect2
 	url = git@github.com:OpenKinect/libfreenect2.git
+[submodule "Windows/book__KINECT_for_Windows_SDK_v2_support/K4W2-Book"]
+	path = Windows/book__KINECT_for_Windows_SDK_v2_support/K4W2-Book
+	url = git@github.com:K4W2-Book/K4W2-Book.git
